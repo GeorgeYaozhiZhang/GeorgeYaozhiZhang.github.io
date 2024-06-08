@@ -6,9 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-A data-driven personal website
-
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am a doctroal research fellow in Marketing.
